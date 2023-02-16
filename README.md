@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KacenkaThomova
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in HTML,CSS and JavaScript (React)
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on webdesign etc.
 - 📫 How to reach me katka.thomova@gmail.com
 
